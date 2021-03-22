@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Weather
+comment1.params=sim
+comment1.target=Weather(Simulator)
+comment1.text=\r\n\ Create\ a\ weather\ condition\ in\ the\ field.\r\n\ \r\n\ @param\ sim\ The\ main\ simulator\ object.\r\n
+comment2.params=
+comment2.target=double\ getProbabilty()
+comment2.text=\r\n\ Return\ the\ weather\ probability.\r\n\ @return\ The\ weather\ probability.\r\n
+comment3.params=probability
+comment3.target=void\ setProbabilty(double)
+comment3.text=\ Set\ the\ weather\ probability.\r\n\ @param\ probability\ The\ weather\ probability.\r\n
+comment4.params=
+comment4.target=int\ getDuration()
+comment4.text=\r\n\ Return\ the\ weather\ duration.\r\n\ @return\ The\ weather\ duration.\r\n
+comment5.params=duration
+comment5.target=void\ setDuration(int)
+comment5.text=\ Set\ the\ weather\ duration.\r\n\ @param\ duration\ The\ weather\ duration.\r\n
+comment6.params=
+comment6.target=Simulator\ getSimulator()
+comment6.text=\r\n\ Return\ the\ main\ simulator\ object.\r\n\ @return\ The\ main\ simulator\ object.\r\n
+comment7.params=diseaseProbability
+comment7.target=void\ setDiseaseProbabilty(double)
+comment7.text=\ Set\ the\ disease\ probability.\r\n\ @param\ diseaseProbability\ The\ disease\ probability.\r\n
+comment8.params=
+comment8.target=double\ getDiseaseProbabilty()
+comment8.text=\r\n\ Return\ the\ disease\ probability.\r\n\ @return\ The\ disease\ probability.\r\n
+numComments=9

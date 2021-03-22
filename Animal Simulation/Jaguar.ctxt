@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Jaguar
+comment1.params=randomAge\ field\ location\ sim
+comment1.target=Jaguar(boolean,\ Field,\ Location,\ Simulator)
+comment1.text=\r\n\ Create\ a\ Jaguar.\ A\ jaguar\ can\ be\ created\ as\ a\ new\ born\ (age\ zero\r\n\ and\ not\ hungry)\ or\ with\ a\ random\ age\ and\ food\ level.\r\n\ \r\n\ @param\ randomAge\ If\ true,\ the\ predator\ will\ have\ random\ age\ and\ hunger\ level.\r\n\ @param\ field\ The\ field\ currently\ occupied.\r\n\ @param\ location\ The\ location\ within\ the\ field.\r\n\ @param\ sim\ The\ main\ simulator\ object.\r\n
+comment2.params=
+comment2.target=java.util.ArrayList\ sleepHours()
+comment3.params=newPredators
+comment3.target=void\ act(java.util.List)
+comment3.text=\r\n\ This\ is\ what\ the\ jaguar\ does\ most\ of\ the\ time\:\ it\ hunts\ for\r\n\ Prey.\ In\ the\ process,\ it\ might\ breed,\ die\ of\ hunger\ or\r\n\ die\ of\ old\ age.\r\n\ @param\ newPredators\ A\ list\ to\ return\ newly\ born\ predators.\r\n
+comment4.params=
+comment4.target=void\ infect()
+comment5.params=
+comment5.target=void\ spreadDisease()
+comment6.params=
+comment6.target=Location\ findFood()
+comment6.text=\r\n\ Look\ for\ Preys\ adjacent\ to\ the\ current\ location.\r\n\ Only\ the\ first\ live\ Prey\ is\ eaten.\r\n\ @return\ Where\ food\ was\ found,\ or\ null\ if\ it\ wasn't.\r\n
+comment7.params=newPredators
+comment7.target=void\ giveBirth(java.util.List)
+comment7.text=\r\n\ Check\ whether\ or\ not\ this\ jaguar\ is\ to\ give\ birth\ at\ this\ step.\r\n\ New\ births\ will\ be\ made\ into\ free\ adjacent\ locations.\r\n\ @param\ newPredators\ A\ list\ to\ return\ newly\ born\ predators.\r\n
+comment8.params=
+comment8.target=int\ breed()
+comment8.text=\r\n\ Generate\ a\ number\ representing\ the\ number\ of\ births,\r\n\ if\ it\ can\ breed.\r\n\ @return\ The\ number\ of\ births\ (may\ be\ zero).\r\n
+comment9.params=
+comment9.target=boolean\ canBreed()
+comment9.text=\r\n\ A\ Predator\ can\ breed\ if\ it\ has\ reached\ the\ breeding\ age.\r\n
+numComments=10

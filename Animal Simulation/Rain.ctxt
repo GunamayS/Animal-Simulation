@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Rain
+comment1.params=sim
+comment1.target=Rain(Simulator)
+comment1.text=\r\n\ Create\ a\ rain\ simulation\ in\ the\ field.\r\n\ \r\n\ @param\ sim\ The\ main\ simulator\ object.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\ \r\n\ Simulate\ the\ rain\:\ it\ checks\ if\ it\ is\ raining,\r\n\ and\ if\ it\ is\ not\ raining,\ it\ gets\ a\ random\ number\ and\ checks\ whether\r\n\ the\ number\ is\ less\ than\ the\ set\ probabilty\ of\ it\ raining.\r\n\ If\ the\ number\ is\ less,\ it\ starts\ raining\ for\ the\ number\ of\ steps\r\n\ equivalent\ to\ the\ count\ variable.\r\n\ If\ is\ is\ raining,\ the\ counter\ variable\ decrements\ with\ each\ step\ in\ \r\n\ the\ simulation,\ until\ it\ reaches\ 0\ and\ stops\ raining.\r\n
+numComments=3

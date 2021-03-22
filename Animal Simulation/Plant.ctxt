@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Plant
+comment1.params=sim
+comment1.target=Plant(Simulator)
+comment1.text=\r\n\ Create\ a\ new\ plant\ at\ location\ in\ field.\r\n\ \r\n\ @param\ sim\ The\ main\ simulator\ object.\r\n
+comment2.params=
+comment2.target=boolean\ isAlive()
+comment2.text=\r\n\ Check\ whether\ the\ plant\ is\ alive\ or\ not.\r\n\ @return\ true\ if\ the\ plant\ is\ still\ alive.\r\n
+comment3.params=
+comment3.target=void\ setDead()
+comment3.text=\r\n\ Indicate\ that\ the\ Plant\ is\ no\ longer\ alive.\r\n\ It\ is\ removed\ from\ the\ field.\r\n
+comment4.params=
+comment4.target=int\ getFoodValue()
+comment4.text=\r\n\ Returns\ the\ food\ value\ that\ the\ plant\ is\ worth.\r\n\ @return\ The\ plant's\ food\ value.\r\n
+comment5.params=foodValue
+comment5.target=void\ setFoodValue(int)
+comment5.text=\r\n\ Initialises\ the\ food\ value\ of\ the\ plant.\r\n\ @param\ foodValue\ The\ food\ value\ of\ the\ plant\r\n
+comment6.params=
+comment6.target=Simulator\ getSimulator()
+comment6.text=\r\n\ Returns\ the\ main\ simulator\ object.\r\n\ \ @return\ The\ main\ simulator\ object.\r\n
+numComments=7

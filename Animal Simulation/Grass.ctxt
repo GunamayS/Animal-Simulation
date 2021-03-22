@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Grass
+comment1.params=sim
+comment1.target=Grass(Simulator)
+comment1.text=\r\n\ Create\ a\ new\ grass\ at\ in\ the\ field.\r\n\ \r\n\ @param\ sim\ The\ main\ simulator\ object.\r\n
+numComments=2
