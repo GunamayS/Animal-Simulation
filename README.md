@@ -1,4 +1,5 @@
 Project: Animal Simulation
+
 Author: Gunamay Sachdev
 
 This is a simulation that represents the life cycle of 5 different species: mice, birds, bears,
